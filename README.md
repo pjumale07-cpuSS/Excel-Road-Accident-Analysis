@@ -41,7 +41,9 @@ This project performs a comprehensive analysis of road accident data across two 
 ### Behind the Scenes: Pivot Table Analysis
 The dashboard is powered by robust backend data aggregation using Pivot Tables to slice data by multiple categories.
 
-![Pivot Table Analysis](Dashboard showcase/Dataanalysis.png)
+<p align="center">
+  <img src="Dashboard showcase/Dataanalysis.png" alt="Pivot Table Analysis" width="700"/>
+</p>
 
 ---
 
