@@ -1,7 +1,7 @@
 # Road Accident Analysis Dashboard (2021-2022)
 
 <p align="center">
-  <img src="Dashboard.png" alt="Road Accident Dashboard" width="800"/>
+ <img src="Dashboard showcase/Dashboard.png" alt="Road Accident Dashboard" width="800"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@ This project performs a comprehensive analysis of road accident data across two 
 ### Behind the Scenes: Pivot Table Analysis
 The dashboard is powered by robust backend data aggregation using Pivot Tables to slice data by multiple categories.
 
-![Pivot Table Analysis](Dataanalysis.png)
+![Pivot Table Analysis](Dashboard showcase/Dataanalysis.png)
 
 ---
 
